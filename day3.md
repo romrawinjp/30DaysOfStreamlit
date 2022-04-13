@@ -26,7 +26,7 @@ Here is the code
 
 ## App visualization
 
-1. Here is the display when entering the app
+1. Here is the display we will see when first entering the app on the web browser
 
     ![before](./image/day3-1.png)
 
